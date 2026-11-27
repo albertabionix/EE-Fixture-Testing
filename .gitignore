@@ -1,0 +1,14 @@
+# Build output (CMake firmware build and PC test builds)
+build/
+*.exe
+*.o
+*.elf
+*.map
+
+# Python
+.venv/
+__pycache__/
+
+# OS
+Thumbs.db
+.DS_Store
